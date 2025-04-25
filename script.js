@@ -48,4 +48,5 @@ function vardosana(){
   rindkopa.HTML="Mans vārds ir"  + name;
      document.body.appenedChild(rindkopa);
   {
-}}
+} 
+

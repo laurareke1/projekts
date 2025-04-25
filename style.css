@@ -2,3 +2,45 @@ html {
   height: 100%;
   width: 100%;
 }
+body{
+  background-color:#2A382E;
+}
+li {
+  display: inline;
+}
+h1{
+  color:#F2F2F2;
+  text-align: center;
+  
+}
+.island-moments-regular {
+  font-family: "Island Moments", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 250pt;
+}
+.purple-purse-regular {
+  font-family: "Purple Purse", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#C62D30;
+  font-size: 64pt;
+  text-align: center;
+  margin-top: -15%;
+}
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+
+  font-weight: 700;
+  font-style: normal;
+  color: #FFFFFF;
+  
+}
+a{
+  text-decoration: none;
+  margin-right: 100px;
+}
+ul{
+  margin-top: 100px;
+  margin-left: 10%;
+}
