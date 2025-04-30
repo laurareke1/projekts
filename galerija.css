@@ -11,7 +11,7 @@ li {
 h1{
   color:#F2F2F2;
   text-align: center;
-  
+
 }
 .island-moments-regular {
   font-family: "Island Moments", cursive;
@@ -34,8 +34,7 @@ h1{
   font-weight: 700;
   font-style: normal;
   color: #FFFFFF;
-  font-size: 20px;
-  
+
 }
 a{
   text-decoration: none;
@@ -50,11 +49,20 @@ ul{
   font-weight: 400;
   font-style: normal;
   font-size: 250pt;
-  margin-left: -33%;
+  margin-left: -10%;
   margin-top: 5%
 }
-.logo{
-  float:right;
-  margin-right: 20px;
-  margin-top: 2%;
+img{
+  float:right; 
+  margin-right: 90px;
+  margin-bottom: 40px;
+ width:400px ;
+  
+}
+#bildes{
+  display: flex;
+  flex-wrap: wrap;
+  width:80%;
+  margin: auto;
+ 
 }
